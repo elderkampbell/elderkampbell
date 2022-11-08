@@ -1,12 +1,12 @@
 # Elder Kampbell
 
-**`Digital Craftsman (Developer/Creator)`**
+**`Developer, Techlead and IT Specialist `**
 
-I'm a full stack student at Trybe currently working at an ISP as Tech Lead for 5+ years.
+I'm a full stack student at Trybe currently working at an ISP as Tech Lead/IT Specialist for 5+ years.
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages Learned... so far
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -21,6 +21,7 @@ I'm a full stack student at Trybe currently working at an ISP as Tech Lead for 5
 #
 
 ### 📊 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elderkampbell&langs_count=8)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=elderkampbell&show_icons=true&theme=midnight-purple)
 
