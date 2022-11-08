@@ -29,5 +29,5 @@ I'm a full stack student at Trybe currently working at an ISP as Tech Lead for 5
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻</h3></summary>
 Work In Progress
