@@ -23,9 +23,9 @@ I'm a full stack student at Trybe currently working at an ISP as Tech Lead/IT Sp
 ### 📊 Stats
 <div>
  
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=elderkampbell&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elderkampbell&langs_count=8)
 
-!(https://github-readme-stats.vercel.app/api?username=elderkampbell&show_icons=true&theme=midnight-purple)
+![](https://github-readme-stats.vercel.app/api?username=elderkampbell&show_icons=true&theme=midnight-purple)
  
 </div>
 
