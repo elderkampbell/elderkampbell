@@ -3,7 +3,16 @@
 **`Developer, Techlead and IT Specialist `**
 
 I'm a full stack developer studying at Trybe currently working at an ISP as Tech Lead/IT Specialist for 5+ years.
-
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="LinkedIn" title="Twitter" src="https://www.flaticon.com/br/icone-gratis/linkedin_179330#"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://www.flaticon.com/br/icone-gratis/discordia_4494732?related_id=4494732&origin=search"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://www.flaticon.com/br/icone-gratis/whatsapp_3670161?related_id=3670161&origin=search"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 ---
 
 ### 🧰 Languages Learned... so far
