@@ -2,7 +2,7 @@
 
 **`Developer, Techlead and IT Specialist `**
 
-I'm a full stack student at Trybe currently working at an ISP as Tech Lead/IT Specialist for 5+ years.
+I'm a full stack developer studying at Trybe currently working at an ISP as Tech Lead/IT Specialist for 5+ years.
 
 ---
 
@@ -28,11 +28,9 @@ I'm a full stack student at Trybe currently working at an ISP as Tech Lead/IT Sp
 #
 
 ### 📊 Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elderkampbell&langs_count=8)
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=elderkampbell&langs_count=8)
 
-![](https://github-readme-stats.vercel.app/api?username=elderkampbell&show_icons=true&theme=midnight-purple)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+[](https://github-readme-stats.vercel.app/api?username=elderkampbell&show_icons=true&theme=midnight-purple)
 
 #
 
