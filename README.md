@@ -4,6 +4,10 @@
 
 I'm a full stack developer studying at Trybe currently working at an ISP as Tech Lead/IT Specialist for 5+ years.
 
+
+https://www.linkedin.com/in/elderkampbell
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">elderkampbell@hotmail.com </img>
+
 ---
 
 ### 🧰 Languages Learned... so far
@@ -31,11 +35,3 @@ I'm a full stack developer studying at Trybe currently working at an ISP as Tech
 ![](https://github-readme-stats.vercel.app/api?username=elderkampbell&show_icons=true&theme=midnight-purple)
 
 #
-
- ### How to reach me:
-
-[![website](./img/email-light.svg)](elderkampbell@hotmail.com)
-[![website](./img/email-dark.svg)](elderkampbell@hotmail.com)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/elderkampbell/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/elderkampbell/#gh-dark-mode-only)
