@@ -32,6 +32,5 @@ I'm a full stack developer studying at Trybe currently working at an ISP as Tech
 
 #
 
-<details>
- <summary><h3>👨‍📝</h3></summary>
+ <summary><h3>Contacts👨‍📝</h3></summary>
 Work In Progress
