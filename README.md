@@ -6,7 +6,8 @@ I'm a full stack developer studying at Trybe currently working at an ISP as Tech
 
 
 https://www.linkedin.com/in/elderkampbell
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">elderkampbell@hotmail.com </img>
+<img src=> </img>
+[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](elderkampbell@hotmail.com)
 
 ---
 
