@@ -32,5 +32,10 @@ I'm a full stack developer studying at Trybe currently working at an ISP as Tech
 
 #
 
- <summary><h3>Contacts👨‍📝</h3></summary>
-Work In Progress
+ ### How to reach me:
+
+[![website](./img/email-light.svg)](elderkampbell@hotmail.com)
+[![website](./img/email-dark.svg)](elderkampbell@hotmail.com)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/elderkampbell/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/elderkampbell/#gh-dark-mode-only)
