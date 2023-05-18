@@ -5,7 +5,7 @@
 I'm a full stack developer studying at Trybe currently working at an ISP as Tech Lead/IT Specialist for 5+ years.
 
 
-[![](https://img.shields.io/badge/LinkedIn-008DD4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://linkedin.com/in/elderkampbell)
+[![](https://img.shields.io/badge/LinkedIn-008DD4?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/elderkampbell)
 [![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:elderkampbell@hotmail.com)
 
 ---
