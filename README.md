@@ -35,9 +35,6 @@ I'm a full stack developer studying at Trybe currently working at an ISP as Tech
 
 <h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=elderkampbell&layout=compact"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api?username=elderkampbell&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Elder's github stats" class="left" /></a> 
-</div>
-<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderkampbell&layout=compact&theme=github_dark&hide_border=true" class="center" /></a>
 </div>
 
