@@ -1,6 +1,6 @@
 ## Elder Kampbell
 
-**`Developer, Techlead and IT Specialist `**
+**`Developer and IT Specialist`**
 
 Hello! Recently, I completed my training at Trybe, where I gained solid skills in technologies like TypeScript, Python, Node.js, Express, React.js, RTL, Redux, and I'm excited to transition into a career in Web Development.
 
