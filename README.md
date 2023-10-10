@@ -1,4 +1,4 @@
-# Elder Kampbell
+## Elder Kampbell
 
 **`Developer, Techlead and IT Specialist `**
 
@@ -10,7 +10,7 @@ I'm a full stack developer studying at Trybe currently working at an ISP as Tech
 
 ---
 
-### **🧰 Languages Learned... so far**
+## **🧰 Languages Learned... so far**
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -27,7 +27,6 @@ I'm a full stack developer studying at Trybe currently working at an ISP as Tech
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
 <br />
-
 
 ## **📊 Github Stats**
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=elderkampbell&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderkampbell&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
