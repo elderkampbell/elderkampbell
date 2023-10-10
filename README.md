@@ -2,7 +2,7 @@
 
 **`Developer, Techlead and IT Specialist `**
 
-I'm a full stack developer studying at Trybe currently working at an ISP as Tech Lead/IT Specialist for 5+ years.
+Hello! Recently, I completed my training at Trybe, where I gained solid skills in technologies like TypeScript, Python, Node.js, Express, React.js, RTL, Redux, and I'm excited to transition into a career in Web Development.
 
 
 [![](https://img.shields.io/badge/LinkedIn-008DD4?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/elderkampbell)
